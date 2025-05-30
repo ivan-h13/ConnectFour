@@ -8,7 +8,6 @@ namespace ConnectFour
 {
     internal class Game
     {
-        //test change
         static void Main(string[] args)
         {
         }
