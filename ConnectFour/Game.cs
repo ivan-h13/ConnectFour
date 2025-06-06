@@ -68,7 +68,7 @@ namespace ConnectFour
 /*
  * To do list
  * 
- * Make
+ * Make abstract template for players and potentially a AI player
  * Make player class
  * 
  * 
