@@ -65,3 +65,11 @@ namespace ConnectFour
         }
     }
 }
+/*
+ * To do list
+ * 
+ * Make
+ * Make player class
+ * 
+ * 
+ */ 
